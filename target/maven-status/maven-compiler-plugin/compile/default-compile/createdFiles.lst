@@ -1,0 +1,6 @@
+com\delOrigen\entity\Producto.class
+com\delOrigen\entity\Usuario.class
+com\delOrigen\entity\enumModel\Categoria.class
+com\delOrigen\entity\Pedido.class
+com\delOrigen\BackendDelOrigenApplication.class
+com\delOrigen\repository\ProductoRepository.class
